@@ -9,9 +9,9 @@ superuser: true
 role: Structural Engineer
 
 # Organizations/Affiliations to show in About widget
-#organizations:
-#- name: Stanford University
-#  url: https://www.stanford.edu/
+organizations:
+- name: Rumah Engineer
+  url: https://instagram.com/rumah.struktur
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -65,4 +65,3 @@ highlight_name: false
 Rhiski Aprilianto is a Structural Engineer. His interests include Structural Engineering, Seismic Engineering and programmable matter. Now, He is running his Engineering Studio "Rumah Engineer".
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

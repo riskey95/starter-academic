@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: Jan 2, 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -22,24 +22,39 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Structural Engineer
+    company: Rumah Engineer
+    company_url: 'instagram.com/rumah.struktur'
+    location: Malang
+    date_start: '2019-08-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+        * Analysing of Building Structure
+        * Design of Building Structure
+        * Make Report of Building Structure 
+  - title: Structural Engineer
+    company: Pusaka Desain
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Kediri
+    date_start: '2018-08-01'
+    date_end: '2019-07-31'
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing of Building Structure
+        * Design of Building Structure
+        * Make Report of Building Structure   
+  - title: Quality Control
+    company: KSO Adhi Karya - Jaya Konstruksi - Penta Architecture
+    company_url: ''
+    location: Jakarta
+    date_start: '2017-10-01'
+    date_end: '2018-03-31'
+    description: |2-
+        Responsibilities include:
+        
+        * Quality Assurancee
+        * Quality Control
 ---
