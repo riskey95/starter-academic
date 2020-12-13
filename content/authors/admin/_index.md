@@ -62,6 +62,6 @@ email: ""
 highlight_name: false
 ---
 
-Rhiski Aprilianto is a Structural Engineer. His interests include Structural Engineering, Seismic Engineering and programmable matter. Now, He is running his Engineering Studio "Rumah Engineer".
+Rhiski Aprilianto is a Structural Engineer. His interests include Structural Engineering, Seismic Engineering and programmable matter. Now, He was running his Engineering Studio "Rumah Engineer" since 2019.
 
 
